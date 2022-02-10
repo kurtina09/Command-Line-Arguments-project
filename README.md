@@ -11,12 +11,8 @@ In addition, each file should have a standard header as defined below.  Make sur
 ```
 /**************************************************************
 * Class:  CSC-415-0# Fall 2021
-* Name: Edel Jhon Cenario
-* Student ID: 921121224
 * GitHub Name: kurtina09
 * Project: Assignment 1 – Command Line Arguments
-*
-* File: cenario_edeljhon_HW1_main.c
 *
 * Description: This is my Assignment 1 - Command Line project.
 *
